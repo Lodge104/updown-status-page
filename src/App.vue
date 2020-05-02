@@ -4,6 +4,15 @@
     class="container"
   >
     <!-- header-->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37461006-21"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-37461006-21');
+</script>
     <div class="row align-items-center">
       <div class="col-md-12 text-center">
         <div class="top">
