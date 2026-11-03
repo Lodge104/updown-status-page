@@ -15,7 +15,7 @@
     "vue": "^2.5.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.8.7",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.8.7",
     "autoprefixer": "^7.1.2",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
@@ -48,11 +48,11 @@
     "vue-template-compiler": "^2.5.2",
     "webpack": "^3.6.0",
     "webpack-bundle-analyzer": "^3.3.2",
-    "webpack-dev-server": "2.9.7",
+    "webpack-dev-server": "5.2.6",
     "webpack-merge": "^4.1.0"
   },
   "engines": {
-    "node": ">= 10.0.0"
+    "node": ">= 22.0.0"
   },
   "browserslist": [
     "> 1%",
